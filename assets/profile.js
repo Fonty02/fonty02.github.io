@@ -43,7 +43,7 @@ window.PROFILE = {
       "type": "Conference paper",
       "abstract": "A carbon-aware early stopping strategy for recommender systems that weighs improvements in predictive accuracy against training emissions, reducing the environmental footprint with limited changes in accuracy and fairness.",
       "paper": "https://doi.org/10.1145/3699682.3728336",
-      "code": ""
+      "code": "https://github.com/swapUniba/GES-green-early-stop"
     }
   ],
   "hobbies": [
